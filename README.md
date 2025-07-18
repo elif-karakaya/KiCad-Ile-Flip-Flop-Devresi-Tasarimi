@@ -11,6 +11,9 @@ Bu projede devrenin girişine uygulanan sinyal değişmediği sürece çıkış 
 ### Devrenin PCB Tasarım Görüntüsü
 ![Devrenin PCB Tasarım Görüntüsü](pcb.png)
 
+### Devrenin Üç Boyutlu PCB Tasarım Görüntüsü
+![Devrenin Üç Boyutlu PCB Tasarım Görüntüsü](pcb3D.png)
+
 ### 2. Bu projeyi kendi bilgisayarınıza klonlayın
 
 GitHub Desktop kullanıyorsanız:
